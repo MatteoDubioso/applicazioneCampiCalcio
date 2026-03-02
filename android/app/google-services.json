@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "620893032074",
+    "firebase_url": "https://campo-calcio-95dcf-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "campo-calcio-95dcf",
+    "storage_bucket": "campo-calcio-95dcf.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:620893032074:android:566a42edada3540de62773",
+        "android_client_info": {
+          "package_name": "com.calcio.campocalcio"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAz2qftRVQ1s679WJsNlPPL74YftKRrNFw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

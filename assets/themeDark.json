@@ -1,0 +1,53 @@
+{
+  "applyElevationOverlayColor": true,
+  "brightness": "dark",
+  "colorScheme": {
+    "brightness": "dark",
+    "primary": "#ff629af2",
+    "onPrimary": "#ffffffff",
+    "primaryContainer": "#ff1f3b68",
+    "onPrimaryContainer": "#ffd1e4ff",
+
+    "secondary": "#ffb0c3e8",
+    "onSecondary": "#ff101c2b",
+    "secondaryContainer": "#ff2d3b4d",
+    "onSecondaryContainer": "#ffcfdfe9",
+
+    "tertiary": "#ffd6bee4",
+    "onTertiary": "#ff251431",
+    "tertiaryContainer": "#ff423050",
+    "onTertiaryContainer": "#fff2daff",
+
+    "error": "#ffffb4ab",
+    "onError": "#ff690005",
+    "errorContainer": "#ff93000a",
+    "onErrorContainer": "#ffffdad6",
+
+    "outline": "#ff73777f",
+    "background": "#ff111418",
+    "onBackground": "#ffe1e2e8",
+    "surface": "#ff1d2024",
+    "onSurface": "#ffe1e2e8",
+    "surfaceVariant": "#ff43474e",
+    "onSurfaceVariant": "#ffc3c7cf"
+  },
+  "scaffoldBackgroundColor": "#ff111418",
+  "cardColor": "#ff1f2227",
+  "buttonTheme": {
+    "colorScheme": {
+      "primary": "#ff629af2",
+      "onPrimary": "#ffffffff",
+      "secondary": "#ffb0c3e8",
+      "onSecondary": "#ff101c2b"
+    }
+  },
+  "textTheme": {
+    "bodyMedium": {
+      "color": "#ffe1e2e8"
+    }
+  },
+  "useMaterial3": true,
+  "platform": "windows",
+  "shadowColor": "#ff000000",
+  "indicatorColor": "#ffe1e2e8"
+}
