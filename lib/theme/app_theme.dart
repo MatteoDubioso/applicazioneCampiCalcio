@@ -55,8 +55,9 @@ Future<ThemeData> loadCustomTheme({required bool isDark}) async {
       ),
     ),
 
-    cardTheme: CardTheme(
+    cardTheme: CardThemeData( // Aggiungi "Data" qui
       color: surfaceColor,
+      elevation: 2, // Opzionale: aggiunge un po' di ombra
       shape: RoundedRectangleBorder(
         borderRadius: BorderRadius.circular(12),
       ),
